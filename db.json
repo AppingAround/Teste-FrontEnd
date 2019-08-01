@@ -1,0 +1,36 @@
+{
+    "candidatos": [
+        {
+            "name": "João Francisco",
+            "age": 19,
+            "gender": null,
+            "location": "Barueri",
+            "state": "São Paulo",
+            "skills": "HTML, CSS"
+        },
+        {
+            "name": "Douglas Martins",
+            "age": 20,
+            "gender": "male",
+            "location": "Butantã / SP",
+            "state": "São Paulo",
+            "skills": "HTML, CSS, JS, React"
+        },
+        {
+            "name": "Alana Junqueira",
+            "age": 25,
+            "gender": "female",
+            "location": "Mooca / SP",
+            "state": "São Paulo",
+            "skills": "HTML, CSS, Angular"
+        },
+        {
+            "name": "Thiago Almeida",
+            "age": 20,
+            "gender": "male",
+            "location": "Guarulhos",
+            "state": "São Paulo",
+            "skills": "Java, .NET, AWS, MySQL"
+        }
+    ]
+}
